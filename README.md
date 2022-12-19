@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Product preview card component](https://github.com/Surajit05021997/product-preview-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Josh W Comeau's CSS reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [Scott O'Hara's blog for hidding content for screen readers only](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html)
 
 ## Author
 
@@ -50,4 +50,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+[Solution inspired from Kevin Powell's solution](https://www.youtube.com/watch?v=B2WL6KkqhLQ)
