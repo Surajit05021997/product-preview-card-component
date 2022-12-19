@@ -61,6 +61,9 @@ body {
   color: var(--clr-neutral-400);
   background-color: var(--clr-secondary);
   padding: 2rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*button*/
@@ -82,14 +85,7 @@ body {
   background-color: var(--clr-accent-900);
 }
 
-/*product card styling*/
-.card {
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
+/*product styling*/
 .product {
   background-color: var(--clr-neutral-100);
   border-radius: 0.5rem;
